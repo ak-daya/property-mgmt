@@ -1,4 +1,4 @@
-## ComProjectTeam13
+## property-mgmt - a snapshot of the final ComProjectTeam13 repo
 Team 13 group project for COM2008
 
 # To run in Eclipse:
